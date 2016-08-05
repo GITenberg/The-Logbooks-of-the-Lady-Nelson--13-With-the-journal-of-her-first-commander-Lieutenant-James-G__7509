@@ -1,0 +1,28 @@
+_repo: The-Logbooks-of-the-Lady-Nelson--13-With-the-journal-of-her-first-commander-Lieutenant-James-G__7509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lee, Ida
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '2496'
+    url: http://www.gutenberg.org/2009/agents/2496
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lady Nelson (Ship)'
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Grant, James, 1771 or 2-1833'
+- GITenberg
+title: "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander\
+  \ Lieutenant James Grant"
+url: http://www.gutenberg.org/ebooks/7509
