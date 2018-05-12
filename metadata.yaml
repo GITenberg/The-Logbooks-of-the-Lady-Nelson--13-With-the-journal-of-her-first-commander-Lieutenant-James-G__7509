@@ -1,5 +1,8 @@
 _repo: The-Logbooks-of-the-Lady-Nelson--13-With-the-journal-of-her-first-commander-Lieutenant-James-G__7509
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lee, Ida
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2496'
     url: http://www.gutenberg.org/2009/agents/2496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7509#The-Logbooks-of-the-Lady-Nelson--13-With-the-journal-of-her-first-commander-Lieutenant-James-G_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
